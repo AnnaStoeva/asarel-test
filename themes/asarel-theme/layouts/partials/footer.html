@@ -1,0 +1,27 @@
+<div class="footer">
+        
+    <div class="search">
+    <h2 class="offset">Търси</h2>
+      <p>
+        <label for="search_tf" class="offset">Ключова дума или фраза</label>
+        <input name="ctl00$Search$ctl00$search_tf" type="text" id="ctl00_Search_ctl00_search_tf" onkeypress="submitForm();">
+        <input type="submit" name="ctl00$Search$ctl00$btnSearch" value="Търси" id="ctl00_Search_ctl00_btnSearch">     
+      </p>
+      <p class="sitemap"><a href="/bg/sitemap.aspx" id="ctl00_Search_ctl00_sitemapLink">Карта на сайта</a></p>
+      </div>
+    
+    <script type="text/javascript" language="javascript">
+    function submitForm()
+    {
+        if (event.keyCode == 13)
+        {                
+            event.cancelBubble = true;
+            event.returnValue = false;
+            document.all['ctl00_Search_ctl00_btnSearch'].click();         
+        }
+    }
+    </script>
+            <h2 class="offset">Служебни страници</h2> <ul class="utilities"> <li><a shape="rect" href="/en/Links.aspx">Usefull Links</a> </li> <li><a shape="rect" href="/en/Help.aspx">Help Information</a> </li> <li><a shape="rect" href="/en/AboutSite.aspx">About the Site </a></li> </ul> <p class="credits" lang="en">Design and Development <a shape="rect" href="http://www.bsh.bg/">BSH</a></p> <p class="copyright">© 2015 „Assarel–Medet“&nbsp;JSC</p>
+    
+    
+          </div>
