@@ -21,23 +21,6 @@
     </item>
     
     <item>
-      <title>new test title</title>
-      <link>https://annastoeva.github.io/asarel-test/news/new-test-title/</link>
-      <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/new-test-title/</guid>
-      <description>some more test content
-and test test test test
-asdasdas
-  asdas
-  asdasd
-  asdasd
-   asdasdasd
-asdasdasd
- </description>
-    </item>
-    
-    <item>
       <title>ДОСТАВКА, МОНТАЖ И ПУСКАНЕ В ЕКСПЛОАТАЦИЯ НА ВЪЛНОВО-ДИСПЕРСИВЕН РЕНТГЕНО-ФЛУОРЕСЦЕНТЕН СПЕКТРОМЕТЪР (WDXRF) ЗА ЕЛЕМЕНТЕН АНАЛИЗ</title>
       <link>https://annastoeva.github.io/asarel-test/search/search-1/</link>
       <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
@@ -48,16 +31,6 @@ asdasdasd
   По търговски въпроси: Специалист „Доставки и логистика” Пламен Тодев, Тел.: 0357/ 60 439, Факс: 0357/ 60 260, Е-mail: plamentodev@asarel.com
   По технически въпроси: Специалист РФА лаборатория, инж. М. Линева Тел.: 0357/ 60 546, Е-mail: miankova@asarel.com
   </description>
-    </item>
-    
-    <item>
-      <title>test new template</title>
-      <link>https://annastoeva.github.io/asarel-test/news/test-new-template/</link>
-      <pubDate>Mon, 10 Aug 2020 08:49:51 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/test-new-template/</guid>
-      <description>new template
-more test</description>
     </item>
     
   </channel>

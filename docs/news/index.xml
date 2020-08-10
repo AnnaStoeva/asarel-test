@@ -20,32 +20,5 @@
       <description>София, България (31.3.2020 г.) Дарение в размер на 300 000 лева под формата на лични предпазни средства, експресни тестове и финансова подкрепа в борбата срещу коронавируса в национален мащаб ще предостави Фондация „Лъчезар Цоцорков“ със съдействието на МБАЛ „Уни Хоспитал“ – Панагюрище и подкрепата на Български лекарски съюз (БЛС). Фондацията заявява своето желание и готовност да подпомогне дейността на държавата, здравните власти и Националния оперативен щаб, като предостави безвъзмездно лични предпазни средства и експресни тестове, за да обезпечат безопасността на медицинските екипи в лечебните заведения.</description>
     </item>
     
-    <item>
-      <title>new test title</title>
-      <link>https://annastoeva.github.io/asarel-test/news/new-test-title/</link>
-      <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/new-test-title/</guid>
-      <description>some more test content
-and test test test test
-asdasdas
-  asdas
-  asdasd
-  asdasd
-   asdasdasd
-asdasdasd
- </description>
-    </item>
-    
-    <item>
-      <title>test new template</title>
-      <link>https://annastoeva.github.io/asarel-test/news/test-new-template/</link>
-      <pubDate>Mon, 10 Aug 2020 08:49:51 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/test-new-template/</guid>
-      <description>new template
-more test</description>
-    </item>
-    
   </channel>
 </rss>
