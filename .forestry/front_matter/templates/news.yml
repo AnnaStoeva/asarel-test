@@ -12,4 +12,5 @@ fields:
       format: markdown
   label: add text
 pages:
+- content/posts/new_test.md
 - content/posts/test123.md
