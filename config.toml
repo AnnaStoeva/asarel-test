@@ -1,5 +1,6 @@
-baseURL = "https://annastoeva.github.io/"
+baseURL = "https://annastoeva.github.io/asarel-test"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="asarel-theme"
+publishDir = "docs"
 
