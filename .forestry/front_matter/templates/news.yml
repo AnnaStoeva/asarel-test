@@ -18,3 +18,12 @@ fields:
     display_utc: false
   hidden: true
   default: now
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
