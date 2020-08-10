@@ -19,5 +19,5 @@ fields:
   hidden: true
   default: now
 pages:
+- content/posts/new-test-title.md
 - content/posts/test-new-template.md
-- content/posts/test123456.md
