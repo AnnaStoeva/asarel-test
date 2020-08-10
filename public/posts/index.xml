@@ -2,39 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
+    <link>https://annastoeva.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Aug 2020 13:14:00 +0300</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://annastoeva.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Дейността на „Асарел-Медет“АД няма въздействие върху реките Медетска и Тополница</title>
-      <link>http://example.org/posts/my-second-post/</link>
+      <link>https://annastoeva.github.io/posts/my-second-post/</link>
       <pubDate>Thu, 06 Aug 2020 13:14:00 +0300</pubDate>
       
-      <guid>http://example.org/posts/my-second-post/</guid>
+      <guid>https://annastoeva.github.io/posts/my-second-post/</guid>
       <description>Във връзка със засиления медиен и обществен интерес към състоянието на реките Медетска и Тополница, „Асарел-Медет“АД смята за необходимо да припомни следните факти. През 1992 г , когато предприятието „Асарел-Медет“ е било все още собственост на държавата, историите на находище „Асарел“ и находище „Медет“ тръгват по различен път с министерско постановление. Фирмата ни е запазила името „Асарел-Медет“, но дейността ни касае единствено находище „Асарел“. Производството ни няма въздействие върху състоянието на реките Медетска и Тополница, нямаме задължение за изграждане или поддръжка на съоръжения по тяхното поречие.</description>
     </item>
     
     <item>
       <title>Фондация “Лъчезар Цоцорков” подкрепя борбата с COVID-19 с дарение на лични предпазни средства и експресни тестове</title>
-      <link>http://example.org/posts/my-first-post/</link>
+      <link>https://annastoeva.github.io/posts/my-first-post/</link>
       <pubDate>Thu, 06 Aug 2020 11:51:03 +0300</pubDate>
       
-      <guid>http://example.org/posts/my-first-post/</guid>
+      <guid>https://annastoeva.github.io/posts/my-first-post/</guid>
       <description>София, България (31.3.2020 г.) Дарение в размер на 300 000 лева под формата на лични предпазни средства, експресни тестове и финансова подкрепа в борбата срещу коронавируса в национален мащаб ще предостави Фондация „Лъчезар Цоцорков“ със съдействието на МБАЛ „Уни Хоспитал“ – Панагюрище и подкрепата на Български лекарски съюз (БЛС). Фондацията заявява своето желание и готовност да подпомогне дейността на държавата, здравните власти и Националния оперативен щаб, като предостави безвъзмездно лични предпазни средства и експресни тестове, за да обезпечат безопасността на медицинските екипи в лечебните заведения.</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/posts/test123/</link>
+      <link>https://annastoeva.github.io/posts/new_test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/test123/</guid>
+      <guid>https://annastoeva.github.io/posts/new_test/</guid>
+      <description>test test test test</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://annastoeva.github.io/posts/test123/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/posts/test123/</guid>
       <description>test ttest test</description>
     </item>
     
