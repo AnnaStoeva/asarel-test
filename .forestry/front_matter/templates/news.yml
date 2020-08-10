@@ -18,3 +18,5 @@ fields:
     display_utc: false
   hidden: true
   default: now
+pages:
+- content/news/covid-19.md
