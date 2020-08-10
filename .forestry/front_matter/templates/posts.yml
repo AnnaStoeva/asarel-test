@@ -7,5 +7,16 @@ fields:
   config:
     required: false
   label: Title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  hidden: true
+  default: now
 pages:
 - content/posts/test123456.md
