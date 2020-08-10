@@ -2,9 +2,11 @@
 <html>
     {{ partial "head" . }}
     <body class="homepage panorama-6">
-        {{ partial "header.html" . }}
+      
       
         <div class="page">
+            {{ partial "header.html" . }}
+            
             {{- block "main" . }}
         
             {{end }}

@@ -1,32 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://annastoeva.github.io/asarel-test/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Searches on My New Hugo Site</title>
+    <link>https://annastoeva.github.io/asarel-test/search/</link>
+    <description>Recent content in Searches on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 10:21:11 +0000</lastBuildDate>
     
-	<atom:link href="https://annastoeva.github.io/asarel-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://annastoeva.github.io/asarel-test/search/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>new test title</title>
-      <link>https://annastoeva.github.io/asarel-test/news/new-test-title/</link>
-      <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/new-test-title/</guid>
-      <description>some more test content
-and test test test test
-asdasdas
-  asdas
-  asdasd
-  asdasd
-   asdasdasd
-asdasdasd
- </description>
-    </item>
     
     <item>
       <title>ДОСТАВКА, МОНТАЖ И ПУСКАНЕ В ЕКСПЛОАТАЦИЯ НА ВЪЛНОВО-ДИСПЕРСИВЕН РЕНТГЕНО-ФЛУОРЕСЦЕНТЕН СПЕКТРОМЕТЪР (WDXRF) ЗА ЕЛЕМЕНТЕН АНАЛИЗ</title>
@@ -39,16 +22,6 @@ asdasdasd
   По търговски въпроси: Специалист „Доставки и логистика” Пламен Тодев, Тел.: 0357/ 60 439, Факс: 0357/ 60 260, Е-mail: plamentodev@asarel.com
   По технически въпроси: Специалист РФА лаборатория, инж. М. Линева Тел.: 0357/ 60 546, Е-mail: miankova@asarel.com
   </description>
-    </item>
-    
-    <item>
-      <title>test new template</title>
-      <link>https://annastoeva.github.io/asarel-test/news/test-new-template/</link>
-      <pubDate>Mon, 10 Aug 2020 08:49:51 +0000</pubDate>
-      
-      <guid>https://annastoeva.github.io/asarel-test/news/test-new-template/</guid>
-      <description>new template
-more test</description>
     </item>
     
   </channel>
