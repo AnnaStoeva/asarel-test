@@ -6,27 +6,19 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2020 13:14:00 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 08:49:51 +0000</lastBuildDate>
     
 	<atom:link href="https://annastoeva.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Дейността на „Асарел-Медет“АД няма въздействие върху реките Медетска и Тополница</title>
-      <link>https://annastoeva.github.io/posts/my-second-post/</link>
-      <pubDate>Thu, 06 Aug 2020 13:14:00 +0300</pubDate>
+      <title>test new template</title>
+      <link>https://annastoeva.github.io/posts/test-new-template/</link>
+      <pubDate>Mon, 10 Aug 2020 08:49:51 +0000</pubDate>
       
-      <guid>https://annastoeva.github.io/posts/my-second-post/</guid>
-      <description>Във връзка със засиления медиен и обществен интерес към състоянието на реките Медетска и Тополница, „Асарел-Медет“АД смята за необходимо да припомни следните факти. През 1992 г , когато предприятието „Асарел-Медет“ е било все още собственост на държавата, историите на находище „Асарел“ и находище „Медет“ тръгват по различен път с министерско постановление. Фирмата ни е запазила името „Асарел-Медет“, но дейността ни касае единствено находище „Асарел“. Производството ни няма въздействие върху състоянието на реките Медетска и Тополница, нямаме задължение за изграждане или поддръжка на съоръжения по тяхното поречие.</description>
-    </item>
-    
-    <item>
-      <title>Фондация “Лъчезар Цоцорков” подкрепя борбата с COVID-19 с дарение на лични предпазни средства и експресни тестове</title>
-      <link>https://annastoeva.github.io/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Aug 2020 11:51:03 +0300</pubDate>
-      
-      <guid>https://annastoeva.github.io/posts/my-first-post/</guid>
-      <description>София, България (31.3.2020 г.) Дарение в размер на 300 000 лева под формата на лични предпазни средства, експресни тестове и финансова подкрепа в борбата срещу коронавируса в национален мащаб ще предостави Фондация „Лъчезар Цоцорков“ със съдействието на МБАЛ „Уни Хоспитал“ – Панагюрище и подкрепата на Български лекарски съюз (БЛС). Фондацията заявява своето желание и готовност да подпомогне дейността на държавата, здравните власти и Националния оперативен щаб, като предостави безвъзмездно лични предпазни средства и експресни тестове, за да обезпечат безопасността на медицинските екипи в лечебните заведения.</description>
+      <guid>https://annastoeva.github.io/posts/test-new-template/</guid>
+      <description>new template
+more test</description>
     </item>
     
   </channel>

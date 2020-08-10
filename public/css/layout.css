@@ -204,3 +204,6 @@ div.section {
 #gallery {
 	display: none;
 }
+.column .w-2-4 img{
+	width:100%;
+}
