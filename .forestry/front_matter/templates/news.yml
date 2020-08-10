@@ -11,3 +11,5 @@ fields:
     schema:
       format: markdown
   label: add text
+pages:
+- content/posts/yaml-test.md
