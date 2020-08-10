@@ -25,7 +25,11 @@ sections:
   create: all
   match: "**/*"
 upload_dir: static/uploads
+<<<<<<< HEAD
 public_path: "static/uploads"
+=======
+public_path: static/uploads
+>>>>>>> d5af0d3582d963a84d9aa20067fea7c6c4c02721
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
