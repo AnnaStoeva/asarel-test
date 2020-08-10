@@ -1,5 +1,5 @@
 ---
-label: Posts
+label: News
 hide_body: false
 fields:
 - name: title
@@ -9,7 +9,7 @@ fields:
   label: Title
 - name: date
   type: datetime
-  label: date
+  label: Date
   description: ''
   config:
     required: false
@@ -18,6 +18,3 @@ fields:
     display_utc: false
   hidden: true
   default: now
-pages:
-- content/posts/new-test-title.md
-- content/posts/test-new-template.md
