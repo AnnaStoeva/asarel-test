@@ -19,4 +19,5 @@ fields:
   hidden: true
   default: now
 pages:
+- content/awards/test_award.md
 - content/news/covid-19.md
