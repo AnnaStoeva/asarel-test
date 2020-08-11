@@ -4,7 +4,14 @@ some gallery
  
     {{ range .Pages }}
         <div>
+
             <h3> <a href="{{.Permalink}}">  {{.Title}}</a></h3>
             <p  class="details">{{.Date.Format "2006-01-02"}}</p>
+            <div>
+                {{ range .Params.gallery }}
+            
+               
+            {{ end }}
+            </div>
         </div>
     {{ end }}
