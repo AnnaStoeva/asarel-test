@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on My New Hugo Site</title>
+    <link>https://annastoeva.github.io/asarel-test/gallery/</link>
+    <description>Recent content in Galleries on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Aug 2020 11:04:13 +0000</lastBuildDate>
+    
+	<atom:link href="https://annastoeva.github.io/asarel-test/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Фондация “Лъчезар Цоцорков” подкрепя борбата с COVID-19 с дарение на лични предпазни средства и експресни тестове</title>
+      <link>https://annastoeva.github.io/asarel-test/gallery/album-1/</link>
+      <pubDate>Mon, 10 Aug 2020 11:04:13 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/gallery/album-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://annastoeva.github.io/asarel-test/gallery/</loc>
+    <lastmod>2020-08-10T11:04:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://annastoeva.github.io/asarel-test/</loc>
     <lastmod>2020-08-10T11:04:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://annastoeva.github.io/asarel-test/news/</loc>
+    <lastmod>2020-08-10T11:04:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://annastoeva.github.io/asarel-test/gallery/album-1/</loc>
     <lastmod>2020-08-10T11:04:13+00:00</lastmod>
   </url>
   
@@ -35,10 +45,6 @@
   <url>
     <loc>https://annastoeva.github.io/asarel-test/search/search-1/</loc>
     <lastmod>2020-08-10T10:21:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://annastoeva.github.io/asarel-test/nnew/</loc>
   </url>
   
   <url>
