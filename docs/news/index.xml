@@ -6,10 +6,20 @@
     <description>Recent content in News on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Aug 2020 11:04:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2020 07:33:55 +0000</lastBuildDate>
     
 	<atom:link href="https://annastoeva.github.io/asarel-test/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://annastoeva.github.io/asarel-test/news/test/</link>
+      <pubDate>Tue, 11 Aug 2020 07:33:55 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/news/test/</guid>
+      <description>sfgs sdgsdgsdg
+asdasdasdasdas</description>
+    </item>
     
     <item>
       <title>Фондация “Лъчезар Цоцорков” подкрепя борбата с COVID-19 с дарение на лични предпазни средства и експресни тестове</title>
