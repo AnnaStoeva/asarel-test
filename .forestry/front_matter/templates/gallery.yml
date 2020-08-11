@@ -23,4 +23,5 @@ fields:
   hidden: true
   default: now
 pages:
+- content/gallery/test-gallery-1.md
 - content/gallery/test-gallery.md
