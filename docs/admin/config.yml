@@ -1,6 +1,9 @@
 backend:
   name: github
-repo: AnnaStoeva/asarel-test # Path to Github repository
+  repo: AnnaStoeva/asarel-test
+  branch: master
+
+local_backend: true
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
