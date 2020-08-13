@@ -1,6 +1,0 @@
-@charset "utf-8";
-/* CSS Document */
-div#gallery, ul#navigation, div.branding, h2#trigger-languages, ul.languages, img.left-quote, ul.panorama {
-	display: none;
-}
-
