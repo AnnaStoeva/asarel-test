@@ -1,6 +1,0 @@
-baseURL = "https://happy-ground-034dcb703.azurestaticapps.net/"
-languageCode = "en-us"
-title = "My New Hugo Site"
-theme="asarel-theme"
-publishDir = "docs"
-
