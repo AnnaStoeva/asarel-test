@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://annastoeva.github.io/asarel-test/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 13 Aug 2020 13:57:27 +0000</lastBuildDate>
+    
+	<atom:link href="https://annastoeva.github.io/asarel-test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test 1</title>
+      <link>https://annastoeva.github.io/asarel-test/news/test-1/</link>
+      <pubDate>Thu, 13 Aug 2020 13:57:27 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/news/test-1/</guid>
+      <description>test test 1</description>
+    </item>
+    
+    <item>
+      <title>test gallery 1</title>
+      <link>https://annastoeva.github.io/asarel-test/gallery/test-gallery-1/</link>
+      <pubDate>Tue, 11 Aug 2020 06:38:36 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/gallery/test-gallery-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test gallery</title>
+      <link>https://annastoeva.github.io/asarel-test/gallery/test-gallery/</link>
+      <pubDate>Tue, 11 Aug 2020 06:38:17 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/gallery/test-gallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test_award</title>
+      <link>https://annastoeva.github.io/asarel-test/awards/test_award/</link>
+      <pubDate>Tue, 11 Aug 2020 06:28:40 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/awards/test_award/</guid>
+      <description>123 testt ege ergerg erge rgerg erger gerg ergt e4tf</description>
+    </item>
+    
+    <item>
+      <title>Album 1</title>
+      <link>https://annastoeva.github.io/asarel-test/gallery/album-1/</link>
+      <pubDate>Mon, 10 Aug 2020 11:04:13 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/gallery/album-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ДОСТАВКА, МОНТАЖ И ПУСКАНЕ В ЕКСПЛОАТАЦИЯ НА ВЪЛНОВО-ДИСПЕРСИВЕН РЕНТГЕНО-ФЛУОРЕСЦЕНТЕН СПЕКТРОМЕТЪР (WDXRF) ЗА ЕЛЕМЕНТЕН АНАЛИЗ</title>
+      <link>https://annastoeva.github.io/asarel-test/products/products/</link>
+      <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/products/products/</guid>
+      <description>За да се запознаете с офертното проучване, моля отворете прикачения файл. Запитване
+За контакти:
+  По търговски въпроси: Специалист „Доставки и логистика” Пламен Тодев, Тел.: 0357/ 60 439, Факс: 0357/ 60 260, Е-mail: plamentodev@asarel.com
+  По технически въпроси: Специалист РФА лаборатория, инж. М. Линева Тел.: 0357/ 60 546, Е-mail: miankova@asarel.com
+  </description>
+    </item>
+    
+    <item>
+      <title>ДОСТАВКА, МОНТАЖ И ПУСКАНЕ В ЕКСПЛОАТАЦИЯ НА ВЪЛНОВО-ДИСПЕРСИВЕН РЕНТГЕНО-ФЛУОРЕСЦЕНТЕН СПЕКТРОМЕТЪР (WDXRF) ЗА ЕЛЕМЕНТЕН АНАЛИЗ</title>
+      <link>https://annastoeva.github.io/asarel-test/search/search-1/</link>
+      <pubDate>Mon, 10 Aug 2020 10:21:11 +0000</pubDate>
+      
+      <guid>https://annastoeva.github.io/asarel-test/search/search-1/</guid>
+      <description>За да се запознаете с офертното проучване, моля отворете прикачения файл. Запитване
+За контакти:
+  По търговски въпроси: Специалист „Доставки и логистика” Пламен Тодев, Тел.: 0357/ 60 439, Факс: 0357/ 60 260, Е-mail: plamentodev@asarel.com
+  По технически въпроси: Специалист РФА лаборатория, инж. М. Линева Тел.: 0357/ 60 546, Е-mail: miankova@asarel.com
+  </description>
+    </item>
+    
+  </channel>
+</rss>

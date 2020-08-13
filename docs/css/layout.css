@@ -1,0 +1,209 @@
+div.page {
+	margin: 0 auto;
+	padding: 0 2%;
+	width: 96%;
+	min-width: 950px;
+	max-width: 1380px;
+	overflow: hidden;
+}
+div.header {
+	margin-bottom: 30px;
+	width: 100%;
+	display: inline;
+	float: left;
+	overflow: visible;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 100;
+}
+div.content {
+	width: 100%;
+	display: inline;
+	float: left;
+	overflow: visible;
+}
+div.footer {
+	width: 100%;
+	display: inline;
+	float: left;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 200;
+}
+div.clear {
+	clear: both;
+	height: 0;
+	overflow: hidden;
+}
+div.branding {
+	margin-bottom: 10px;
+}
+div.logo {
+	width: 25%;
+	height: 70px;
+	line-height: 100%;
+}
+div.navigation-wrapper {
+	padding-right: 4%;
+	width: 100%;
+	display: inline;
+	float: left;
+	position: relative;
+	top: 0;
+	left: -2%;
+	z-index: 140;
+	/*
+	background: #fff url(../i/design/div-navigation-wrapper.jpg) no-repeat 100% 0;
+	*/
+}
+/*
+body.masterhead-1 div.navigation-wrapper {
+	background: #fff url(../i/design/Head-05.jpg) no-repeat 100% 0;
+}
+body.masterhead-2 div.navigation-wrapper {
+	background: #fff url(../i/design/Head-07.jpg) no-repeat 100% 0;
+}
+body.masterhead-3 div.navigation-wrapper {
+	background: #fff url(../i/design/Head-06.jpg) no-repeat 100% 0;
+}
+body.masterhead-4 div.navigation-wrapper {
+	background: #fff url(../i/design/Head-08.jpg) no-repeat 100% 0;
+}
+body.masterhead-5 div.navigation-wrapper {
+	background: #fff url(../i/design/Head-09.jpg) no-repeat 100% 0;
+}
+*/
+body.panorama-1 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-8.jpg) no-repeat 85% 0;
+}
+body.panorama-2 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-4.jpg) no-repeat 60% 0;
+}
+body.panorama-3 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-12.jpg) no-repeat 90% 0;
+}
+body.panorama-4 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-13.jpg) no-repeat 40% 0;
+}
+body.panorama-5 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-15.jpg) no-repeat 100% 0;
+}
+body.panorama-6 div.navigation-wrapper {
+	background: transparent url(../images/Asarel-Panorama-23.jpg) no-repeat 60% 0;
+}
+body.panorama-7 div.navigation-wrapper {
+	background: transparent url(../i/design/Asarel-Panorama-8.jpg) no-repeat 85% 0;
+}
+div.column {
+	margin-bottom: 20px;
+	width: 76%;
+	display: inline;
+	float: right;
+	overflow: hidden;
+}
+div.w-3-4 {
+	margin-left: 1%;
+	width: 74%;
+	float: left;
+}
+div.w-3-4 div.w-3-4 {
+	margin-left: 0;
+	width: 65% !important;
+	float: right;
+}
+body.homepage div.w-3-4 {
+	margin-left: 0;
+	width: 74.5%;
+}
+body.homepage div.w-3-4 div.w-1-4 {
+	margin-left: 0;
+	clear: left;
+}
+div.w-2-4 {
+	margin-left: 1%;
+	width: 48%;
+	float: left;
+}
+div.section div.w-2-4 {
+	margin-left: 1%;
+	width: 49%;
+	float: left;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 330;
+}
+div.w-3-4 div.w-2-4  {
+	margin-left: 0;
+	width: 65%;
+}
+div.section div.first-child {
+	width: 50%;
+}
+div.w-1-4 {
+	margin-left: 0.5%;
+	width: 24%;
+	float: right;
+}
+div.w-3-4 div.w-1-4 {
+	margin-left: 2%;
+	width: 32%;
+	float: left;
+}
+div.first-child {
+	margin-left: 0 !important;
+}
+div.contact {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #666;
+	width: 100%;
+	display: inline;
+	float: left;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 210;
+	overflow: visible;
+}
+div.images {
+	margin-top: -2.25em;
+	width: 230px;
+	display: inline;
+	float: right;
+}
+div.intro {
+	padding-left: 37%;
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 300;
+}
+div.cite {
+	width: 33%;
+	display: inline;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 310;
+	background: transparent url(../images/cite-img.gif) no-repeat 120% 0;
+	font-size: 0.92em;
+}
+div.section {
+	margin-bottom: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #666;
+	width: 100%;
+	display: inline;
+	float: left;
+	overflow: hidden;
+}
+#gallery {
+	display: none;
+}
+.column .w-2-4 img{
+	width:100%;
+}
