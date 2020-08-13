@@ -3,7 +3,7 @@ backend:
   repo: AnnaStoeva/asarel-test
   branch: master
 
-local_backend: true
+ base_url: https://netlify-cms-github-oauth-provider-example.glitch.me # change this to your OAuth server
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
