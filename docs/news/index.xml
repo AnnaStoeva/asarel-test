@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on My New Hugo Site</title>
-    <link>https://annastoeva.github.io/asarel-test/news/</link>
+    <link>https://happy-ground-034dcb703.azurestaticapps.net/news/</link>
     <description>Recent content in News on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Aug 2020 13:57:27 +0000</lastBuildDate>
     
-	<atom:link href="https://annastoeva.github.io/asarel-test/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://happy-ground-034dcb703.azurestaticapps.net/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>test 1</title>
-      <link>https://annastoeva.github.io/asarel-test/news/test-1/</link>
+      <link>https://happy-ground-034dcb703.azurestaticapps.net/news/test-1/</link>
       <pubDate>Thu, 13 Aug 2020 13:57:27 +0000</pubDate>
       
-      <guid>https://annastoeva.github.io/asarel-test/news/test-1/</guid>
+      <guid>https://happy-ground-034dcb703.azurestaticapps.net/news/test-1/</guid>
       <description>test test 1</description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://annastoeva.github.io/asarel-test/"
+baseURL = "https://happy-ground-034dcb703.azurestaticapps.net/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme="asarel-theme"
