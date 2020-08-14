@@ -1,6 +1,7 @@
 {
     "routes": [],
     "mimeTypes": {
-        "yaml": "application/yaml"
+        "yaml": "application/yaml",
+        "yml": "application/yaml"
     }
 }
