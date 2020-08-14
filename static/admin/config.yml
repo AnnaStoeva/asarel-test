@@ -2,8 +2,8 @@ backend:
   name: github
   repo: AnnaStoeva/asarel-test
   branch: master
-base_url: https://asarel-auth-api.azurewebsites.net
- site_domain: https://happy-ground-034dcb703.azurestaticapps.net
+  base_url: https://asarel-auth-api.azurewebsites.net
+  site_domain: https://happy-ground-034dcb703.azurestaticapps.net
 
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
