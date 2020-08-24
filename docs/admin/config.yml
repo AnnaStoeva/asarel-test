@@ -2,9 +2,14 @@ backend:
   name: github
   repo: AnnaStoeva/asarel-test
   branch: master
-base_url: "https://asarel-auth-api.azurewebsites.net"
+  base_url: https://asarel-auth-api.azurewebsites.net
+  site_domain: https://happy-ground-034dcb703.azurestaticapps.net
+<<<<<<< HEAD
 
 
+=======
+  auth_endpoint: external/auth/github
+>>>>>>> 90d4515ad5e8d041151de3a45462eec661569495
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
@@ -17,4 +22,17 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
+<<<<<<< HEAD
+collections: # A list of collections the CMS should be able to edit
+  - name: "gallery" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Gallery" # Used in the UI, ie.: "New Post"
+    folder: "content/gallery" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+     - {label: Photo, name: photo, widget: image}
   
+=======
+  
+>>>>>>> 90d4515ad5e8d041151de3a45462eec661569495
